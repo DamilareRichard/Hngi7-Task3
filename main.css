@@ -516,7 +516,7 @@ header#cover {
 	height: 50px;
 	margin: 15px;
 	left: 90px;
-	top: 150px;
+	top: 155px;
 
 }
 
@@ -531,25 +531,25 @@ header#cover {
 	height: 50px;
 	margin: 15px;
 	left: 280px;
-	top: 150px;
+	top: 155px;
  }
 
 .hero p{
 	display: block;
 	font-size: 28px;
-	left: 22px;
+	left: 25px;
 	top: 200px;
 	text-align: center;
 }
 
 .hero span{
-	left: 90px;
+	left: 100px;
 	top: 280px;
 
 }
 
 .footnav{
-	top: 610px;
+	
 	left: 0px;
 	width: 100%;
 	display: flex;
